@@ -1,0 +1,23 @@
+[
+  {
+    "numele": "Alex", "postul": "casier", "data_angajarii": "2024-10-10", "salariul": 2000.5
+  },
+  {
+    "numele": "Bogdi", "postul": "brutar", "data_angajarii": "2024-10-08", "salariul": 2400.5
+  },
+  {
+    "numele": "Mishu", "postul": "cafegiu", "data_angajarii": "2024-10-03", "salariul": 1200.5
+  },
+  {
+    "numele": "Norbi", "postul": "maturator", "data_angajarii": "2024-10-09", "salariul": 1000.5
+  },
+  {
+    "numele": "Radu", "postul": "sef", "data_angajarii": "2024-10-02", "salariul": 8000
+  },
+  {
+    "numele": "Radulescu", "postul": "sef", "data_angajarii": "2023-07-02", "salariul": 8000
+  },
+  {
+    "numele": "Ion", "postul": "director", "data_angajarii": "2023-07-02", "salariul": 10000
+  }
+]
